@@ -7,6 +7,8 @@
 <p align="center"><strong>Reliable automation. Verifiable evidence.</strong></p>
 
 <p align="center">
+  <a href="https://wrightops-ai.github.io/website/"><strong>Explore the offer site</strong></a>
+  ·
   <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml"><strong>Run a free public audit</strong></a>
   ·
   <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-fix-plan.md"><strong>Get the $149 Fix Plan</strong></a>
@@ -69,6 +71,7 @@ The sprint excludes application features, private repositories, infrastructure, 
 - [Immutable v1 sample report](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/sample-report-v1.md) — public evidence tied to a full commit SHA.
 - [Latest hosted CI](https://github.com/wrightops-ai/agent-ready-repo-auditor/actions/workflows/ci.yml) — Python 3.10/3.13 tests plus a real `uses: ./` consumer check.
 - [Stable v1.1.0 release](https://github.com/wrightops-ai/agent-ready-repo-auditor/releases/tag/v1.1.0) — install with `wrightops-ai/agent-ready-repo-auditor@v1`.
+- [WrightOps AI product site](https://wrightops-ai.github.io/website/) — business-owned proof-first offer ladder hosted from this organization.
 - [zachwright.xyz](https://zachwright.xyz/) — authorized business website; a product-led rebuild is in progress.
 
 ## Operating boundaries
@@ -82,4 +85,4 @@ The sprint excludes application features, private repositories, infrastructure, 
 ## Repositories
 
 - [`agent-ready-repo-auditor`](https://github.com/wrightops-ai/agent-ready-repo-auditor) — active product and free-audit intake.
-- [`website`](https://github.com/wrightops-ai/website) — earlier WrightOps brand implementation; not the current production source for zachwright.xyz.
+- [`website`](https://github.com/wrightops-ai/website) — active source for the business-owned WrightOps GitHub Pages acquisition site; not the current production source for zachwright.xyz.
