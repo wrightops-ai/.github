@@ -29,7 +29,7 @@ The lowest-friction paid next step after the free audit: exactly three human-rev
 
 The plan includes at most 45 minutes of human review. It does not include code changes, private repositories, production access, a live handoff, or security, privacy, legal, or compliance work, and it does not guarantee a score or outcome.
 
-[Read the full $149 scope and request an invoice](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-fix-plan.md) · [Run the free audit first](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
+[Read the full $149 scope and request an invoice](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-fix-plan.md) · [Inspect a complete sample](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/sample-fix-plan-claude-code.md) · [Run the free audit first](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
 
 ## Agent-Ready Repository Audit
 
