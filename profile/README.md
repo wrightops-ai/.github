@@ -33,6 +33,21 @@ The audit reads public GitHub evidence only. It never clones or executes reposit
 
 After payment, email [`zach@zachwright.xyz`](mailto:zach@zachwright.xyz?subject=Paid%20Agent-Ready%20Repository%20Audit%20intake) with the public repository URL and the coding-agent workflow or pain point to prioritize. Do not send credentials, private repository details, or customer data.
 
+## Repository Remediation Sprint
+
+For teams that want the highest-priority audit gaps fixed, WrightOps offers a bounded implementation sprint after written scope acceptance.
+
+| Included | Commercial boundary |
+| --- | --- |
+| Remediation of **1–3** agreed repository-readiness gaps | **$1,500 USD** fixed price for the accepted scope |
+| Public operational documentation, repository metadata, and workflow guardrails | Delivered within **5 business days** after payment and required inputs |
+| At most **8 changed files** and **10 labor hours** | One public repository; buyer must authorize the proposed public pull request |
+| Verification evidence and a concise handoff | Buyer-specific PayPal goods/services invoice issued only after the written scope is accepted |
+
+The sprint excludes application features, private repositories, infrastructure, deployment, production access, open-ended CI redesign, and security, privacy, legal, or compliance work. If a request falls outside those limits, WrightOps will decline or propose a separately scoped engagement before payment.
+
+[Request a remediation scope](mailto:zach@zachwright.xyz?subject=Repository%20Remediation%20Sprint%20scope&body=Public%20repository%20URL%3A%0AExisting%20audit%20or%20priority%20gaps%3A%0ARequired%20deadline%3A%0A%0ADo%20not%20include%20credentials%2C%20private%20repository%20details%2C%20or%20customer%20data.)
+
 ## Inspect the evidence
 
 - [Agent-Ready Repo Auditor](https://github.com/wrightops-ai/agent-ready-repo-auditor) — dependency-free CLI, library, and GitHub Action.
