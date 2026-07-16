@@ -7,9 +7,9 @@
 <p align="center"><strong>Reliable automation. Verifiable evidence.</strong></p>
 
 <p align="center">
-  <a href="https://wrightops-ai.github.io/website/"><strong>Explore the offer site</strong></a>
+  <a href="https://zachwright.xyz/"><strong>Explore the WrightOps site</strong></a>
   ·
-  <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml"><strong>Run a free public audit</strong></a>
+  <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml"><strong>Request a free public audit</strong></a>
   ·
   <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml"><strong>Request the $149 Fix Plan</strong></a>
 </p>
@@ -24,7 +24,7 @@ The lowest-friction paid next step after the free audit: exactly three human-rev
 
 | What you receive | Commercial terms |
 | --- | --- |
-| Three evidenced repository-readiness gaps | **$149 USD**, structured scope request followed by a buyer-specific PayPal goods/services invoice |
+| Three evidenced repository-readiness gaps | **$149 USD**, structured scope request followed by the dedicated PayPal goods/services checkout only after written confirmation |
 | Exact file or path and bounded change outline for each gap | Delivered within **1 business day** after settled payment and required public inputs |
 | Verification check and risky-action boundary for each fix | One public repository at one immutable default-branch revision |
 | One factual correction requested within 7 days | Public delivery; payment records stay private; no implementation included |
@@ -39,16 +39,16 @@ One fixed-price audit of one public GitHub repository at one immutable default-b
 
 | What you receive | Commercial terms |
 | --- | --- |
-| Evidence-linked Markdown and JSON reports | **$750 USD**, paid through PayPal Business |
+| Evidence-linked Markdown and JSON reports | **$750 USD**, scoped in writing before PayPal goods/services payment |
 | Human-reviewed summary with up to five next steps | Delivered within **3 business days** after required inputs arrive |
 | Public source links for every positive automated finding | Full purchase-price refund before work begins or if WrightOps cannot deliver; WrightOps absorbs any seller fee PayPal retains |
 | A 30-minute handoff | One public repository; no private data or production access |
 
 The audit reads public GitHub evidence only. It never clones or executes repository code. It is not a vulnerability, security, privacy, legal, or compliance assessment, and it does not guarantee an outcome. The buyer must be authorized to commission the review.
 
-[Start the $750 audit](https://www.paypal.com/ncp/payment/5WFCZBVANJLGA) · [Request the $149 Fix Plan](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
+[Scope the $750 audit](mailto:zach@zachwright.xyz?subject=Agent-Ready%20Repository%20Audit%20scope&body=Public%20repository%20URL%3A%0ACoding-agent%20workflow%20or%20pain%3A%0ARequired%20deadline%3A%0A%0ADo%20not%20include%20credentials%2C%20private%20repository%20details%2C%20or%20customer%20data.) · [Request the $149 Fix Plan](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
 
-After payment, email [`zach@zachwright.xyz`](mailto:zach@zachwright.xyz?subject=Paid%20Agent-Ready%20Repository%20Audit%20intake) with the public repository URL and the coding-agent workflow or pain point to prioritize. Do not send credentials, private repository details, or customer data.
+Email [`zach@zachwright.xyz`](mailto:zach@zachwright.xyz?subject=Agent-Ready%20Repository%20Audit%20scope) with the public repository URL and the coding-agent workflow or pain point to prioritize. WrightOps confirms fit, exclusions, timing, and acceptance criteria before inviting payment. Do not send credentials, private repository details, or customer data.
 
 ## Repository Remediation Sprint
 
@@ -71,8 +71,8 @@ The sprint excludes application features, private repositories, infrastructure, 
 - [Immutable v1 sample report](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/sample-report-v1.md) — public evidence tied to a full commit SHA.
 - [Latest hosted CI](https://github.com/wrightops-ai/agent-ready-repo-auditor/actions/workflows/ci.yml) — Python 3.10/3.13 tests plus a real `uses: ./` consumer check.
 - [Stable v1.1.0 release](https://github.com/wrightops-ai/agent-ready-repo-auditor/releases/tag/v1.1.0) — install with `wrightops-ai/agent-ready-repo-auditor@v1`.
-- [WrightOps AI product site](https://wrightops-ai.github.io/website/) — business-owned proof-first offer ladder hosted from this organization.
-- [zachwright.xyz](https://zachwright.xyz/) — authorized business website; a product-led rebuild is in progress.
+- [zachwright.xyz](https://zachwright.xyz/) — live proof-first WrightOps funnel with free audit intake, public evidence, bounded offers, and gated payment.
+- [WrightOps AI GitHub Pages site](https://wrightops-ai.github.io/website/) — secondary business-owned offer surface hosted from this organization.
 
 ## Operating boundaries
 
@@ -85,4 +85,4 @@ The sprint excludes application features, private repositories, infrastructure, 
 ## Repositories
 
 - [`agent-ready-repo-auditor`](https://github.com/wrightops-ai/agent-ready-repo-auditor) — active product and free-audit intake.
-- [`website`](https://github.com/wrightops-ai/website) — active source for the business-owned WrightOps GitHub Pages acquisition site; not the current production source for zachwright.xyz.
+- [`website`](https://github.com/wrightops-ai/website) — secondary source for the business-owned WrightOps GitHub Pages offer surface; not the production source for zachwright.xyz.
