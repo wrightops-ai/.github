@@ -31,6 +31,8 @@ The audit reads public GitHub evidence only. It never clones or executes reposit
 
 [Start the $750 audit](https://www.paypal.com/ncp/payment/5WFCZBVANJLGA) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
 
+After payment, email [`zach@zachwright.xyz`](mailto:zach@zachwright.xyz?subject=Paid%20Agent-Ready%20Repository%20Audit%20intake) with the public repository URL and the coding-agent workflow or pain point to prioritize. Do not send credentials, private repository details, or customer data.
+
 ## Inspect the evidence
 
 - [Agent-Ready Repo Auditor](https://github.com/wrightops-ai/agent-ready-repo-auditor) — dependency-free CLI, library, and GitHub Action.
