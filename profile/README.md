@@ -11,6 +11,8 @@
   ·
   <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml"><strong>Request a free public audit</strong></a>
   ·
+  <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=human-audit-scope-request.yml"><strong>Scope the $750 human-reviewed audit</strong></a>
+  ·
   <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml"><strong>Request the $149 Fix Plan</strong></a>
 </p>
 
@@ -40,15 +42,15 @@ One fixed-price audit of one public GitHub repository at one immutable default-b
 | What you receive | Commercial terms |
 | --- | --- |
 | Evidence-linked Markdown and JSON reports | **$750 USD**, scoped in writing before PayPal goods/services payment |
-| Human-reviewed summary with up to five next steps | Delivered within **3 business days** after required inputs arrive |
+| Human-reviewed summary with up to five next steps | Delivered within **3 business days** after settled payment and complete public inputs |
 | Public source links for every positive automated finding | Full purchase-price refund before work begins or if WrightOps cannot deliver; WrightOps absorbs any seller fee PayPal retains |
 | A 30-minute handoff | One public repository; no private data or production access |
 
 The audit reads public GitHub evidence only. It never clones or executes repository code. It is not a vulnerability, security, privacy, legal, or compliance assessment, and it does not guarantee an outcome. The buyer must be authorized to commission the review.
 
-[Scope the $750 audit](mailto:zach@zachwright.xyz?subject=Agent-Ready%20Repository%20Audit%20scope&body=Public%20repository%20URL%3A%0ACoding-agent%20workflow%20or%20pain%3A%0ARequired%20deadline%3A%0A%0ADo%20not%20include%20credentials%2C%20private%20repository%20details%2C%20or%20customer%20data.) · [Request the $149 Fix Plan](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
+[Scope the $750 audit](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=human-audit-scope-request.yml) · [Read the complete $750 terms](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-repository-audit.md) · [Request the $149 Fix Plan](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
 
-Email [`zach@zachwright.xyz`](mailto:zach@zachwright.xyz?subject=Agent-Ready%20Repository%20Audit%20scope) with the public repository URL and the coding-agent workflow or pain point to prioritize. WrightOps confirms fit, exclusions, timing, and acceptance criteria before inviting payment. Do not send credentials, private repository details, or customer data.
+Open the public scope form with one public repository URL, requester authority, and the coding-agent workflow or pain point to prioritize. WrightOps confirms fit, exclusions, timing, and acceptance criteria before sharing the existing PayPal Business goods/services checkout. The form collects no contact or payment data. Do not include credentials, private repository details, customer data, or payment details.
 
 ## Repository Remediation Sprint
 
