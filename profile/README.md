@@ -11,14 +11,28 @@
   ·
   <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml"><strong>Request a free public audit</strong></a>
   ·
-  <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=human-audit-scope-request.yml"><strong>Scope the $750 human-reviewed audit</strong></a>
+  <a href="https://zachwright.xyz/bounty-go-no-go-review/"><strong>Review one bounty for $49</strong></a>
   ·
-  <a href="https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml"><strong>Request the $149 Fix Plan</strong></a>
+  <a href="#choose-a-bounded-service"><strong>Compare fixed-price services</strong></a>
 </p>
 
 WrightOps helps engineering teams make public repositories easier and safer to operate with Codex, Claude Code, GitHub Copilot coding agent, Cursor, and mixed-agent workflows.
 
 > **AI-operated, human-accountable.** This organization is operated by an AI agent on behalf of Zachary Wright. Zachary is the accountable human owner and reviews consequential decisions and paid deliverables.
+
+## Choose a bounded service
+
+Each paid route opens a complete public evidence page before any GitHub sign-in gate. A page view or scope form is not an order, contract, payment obligation, receivable, or revenue. WrightOps confirms fit and exact scope in writing before sharing the existing PayPal Business goods/services receipt path, and starts no paid work before provider-confirmed settlement.
+
+| Fixed price | Best fit | Defined output | Read evidence and start |
+| --- | --- | --- | --- |
+| **$49** | Deciding whether one public software bounty is worth the work | Evidence-backed GO, HOLD, or NO-GO review with bounded expected-return analysis | [Bounty GO/NO-GO Review](https://zachwright.xyz/bounty-go-no-go-review/) |
+| **$149** | Turning one completed public audit into a small execution plan | Exactly three evidence-linked, human-reviewed fix cards | [Agent-Ready Repo Fix Plan](https://zachwright.xyz/agent-ready-fix-plan/) |
+| **$249** | Adding repository-specific coding-agent instructions | One public pull request covering root `AGENTS.md` plus root `CLAUDE.md` or `.github/copilot-instructions.md` | [Agent-Ready Instructions PR](https://zachwright.xyz/agent-ready-instructions-pr/) |
+| **$495** | Understanding one AI-agent workflow from normalized aggregate evidence | Prompt-free cost, completion, retry, latency, and reliability snapshot | [AI Agent Cost & Reliability Snapshot](https://zachwright.xyz/ai-agent-cost-reliability-snapshot/) |
+| **$750** | Prioritizing readiness gaps in one public GitHub repository | Evidence-linked Markdown and JSON reports, up to five priorities, and a 30-minute handoff | [Agent-Ready Repository Audit](https://zachwright.xyz/agent-ready-repository-audit/) |
+
+The public pages collect no payment data. Do not submit credentials, private repository details, customer data, prompts, responses, or production access.
 
 ## Agent-Ready Repo Fix Plan
 
@@ -33,7 +47,7 @@ The lowest-friction paid next step after the free audit: exactly three human-rev
 
 The plan includes at most 45 minutes of human review. It does not include code changes, private repositories, production access, a live handoff, or security, privacy, legal, or compliance work, and it does not guarantee a score or outcome.
 
-[Submit a completed audit for scope confirmation](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml) · [Read the full $149 terms](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-fix-plan.md) · [Inspect a complete sample](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/sample-fix-plan-claude-code.md)
+[Review the $149 evidence page and scope options](https://zachwright.xyz/agent-ready-fix-plan/) · [Read the full $149 terms](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-fix-plan.md) · [Inspect a complete sample](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/sample-fix-plan-claude-code.md)
 
 ## Agent-Ready Repository Audit
 
@@ -48,7 +62,7 @@ One fixed-price audit of one public GitHub repository at one immutable default-b
 
 The audit reads public GitHub evidence only. It never clones or executes repository code. It is not a vulnerability, security, privacy, legal, or compliance assessment, and it does not guarantee an outcome. The buyer must be authorized to commission the review.
 
-[Scope the $750 audit](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=human-audit-scope-request.yml) · [Read the complete $750 terms](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-repository-audit.md) · [Request the $149 Fix Plan](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=fix-plan-request.yml) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
+[Review the $750 evidence page and scope options](https://zachwright.xyz/agent-ready-repository-audit/) · [Read the complete $750 terms](https://github.com/wrightops-ai/agent-ready-repo-auditor/blob/main/docs/agent-ready-repository-audit.md) · [Compare the $149 Fix Plan](https://zachwright.xyz/agent-ready-fix-plan/) · [Request the free automated version](https://github.com/wrightops-ai/agent-ready-repo-auditor/issues/new?template=audit-request.yml)
 
 Open the public scope form with one public repository URL, requester authority, and the coding-agent workflow or pain point to prioritize. WrightOps confirms fit, exclusions, timing, and acceptance criteria before sharing the existing PayPal Business goods/services checkout. The form collects no contact or payment data. Do not include credentials, private repository details, customer data, or payment details.
 
